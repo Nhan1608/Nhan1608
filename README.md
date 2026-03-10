@@ -1,11 +1,15 @@
-# Nhan Tran | AI & Software Engineering 
+# Hi there! I'm Nhan Tran 👨‍💻
 
-Passionate about building **AI-powered internal tooling** and automated systems that drive developer productivity. 
+**Bachelor of Computer Engineering (Honours) @ York University** *Specializing in Software Development, MLOps, and AI-Driven Tooling.*
 
-- [cite_start]🎓 **Education:** Bachelor of Computer Engineering (Honours), York University [cite: 41, 42]
-- 🛠️ **Current Project:** [AI Artifact Tracing Tool](https://github.com/Nhan1608/AI-Developer) — Automating ML metadata extraction with a green-light CI/CD pipeline.
-- 💡 **Interests:** MLOps, LLMs, and building tools that help teams scale.
-- [cite_start]📬 **Connect:** [LinkedIn](https://www.linkedin.com/in/nhan-tran-68b615204/) | nhan.tranthien1608@gmail.com [cite: 39]
+### 🛠️ Featured Work: [AI Artifact Tracing Tool](https://github.com/Nhan1608/AI-Developer)
+I built a custom internal tool for ML teams that automates metadata extraction and runs a **Green-Light CI/CD Pipeline**.
+- **Tech:** Python, Astroid, GitHub Actions, Pytest.
+- **Status:** [![CI/CD](https://github.com/Nhan1608/AI-Developer/actions/workflows/main.yml/badge.svg)](https://github.com/Nhan1608/AI-Developer/actions)
 
----
-"Success in Global Sales is built on curiosity, empathy, and collaboration." - IBM
+### 📈 What I'm working on
+- 🧠 Expanding my knowledge of **RAG (Retrieval-Augmented Generation)**.
+- 🛤️ Exploring **Ruby on Rails** for full-stack enterprise applications.
+- 🤖 Integrating LLMs into developer productivity workflows.
+
+[LinkedIn](https://www.linkedin.com/in/nhan-tran-68b615204/) | [Email](mailto:nhan.tranthien1608@gmail.com)
